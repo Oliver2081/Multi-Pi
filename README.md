@@ -1,2 +1,2 @@
 # Multi Py
-A python project for multiplication
+A python project for multiplication practice
